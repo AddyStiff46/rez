@@ -21,8 +21,9 @@ nav{
 }
 nav button {
     color: black;
-    background-color: aqua;
-    border: none;
+    /* background-color: aqua;
+    border-radius: 25%;
+    border: 1px black; */
     cursor: pointer;
     font-size: xx-large;
 }
